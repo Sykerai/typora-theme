@@ -1,0 +1,2 @@
+# Legacy per-change backups; Git is the source of history.
+*.bak-*
