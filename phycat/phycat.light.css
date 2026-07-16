@@ -1788,7 +1788,8 @@ span.file-node-title {
     position: relative;
     z-index: 50;
     margin: 0 0 3px 7px;
-    width: calc(100% - 4px);
+    width: max-content;
+    min-width: calc(100% - 4px);
     border-radius: 5px;
     border: none;
     line-height: 1;
