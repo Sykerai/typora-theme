@@ -23,7 +23,7 @@
 **Files:**
 - Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.light.css`
 - Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.dark.css`
-- Verify: `D:\史永康\Documents\docs\typora\phycat-forest-pending-changes.md`
+- Verify: `C:\Users\史永康\AppData\Roaming\Typora\themes\docs\typora\phycat-theme-maintenance-log.md`
 
 **Interfaces:**
 - Consumes: 两个共享 CSS 中现有 `.md-fences` 规则。

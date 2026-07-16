@@ -21,7 +21,7 @@
 **Files:**
 - Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.light.css`
 - Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.dark.css`
-- Modify: `D:\史永康\Documents\docs\typora\phycat-forest-pending-changes.md`
+- Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\docs\typora\phycat-theme-maintenance-log.md`
 
 **Interfaces:**
 - Consumes: `figure.table-figure` 与 `.md-htmlblock-container:has(table)` 两个现有滚动容器。
@@ -51,4 +51,3 @@
 - [ ] **Step 5: 最终验证与记录**
 
 确认目标文件与暂存文件哈希一致、备份存在，并在 Phycat 变更记录中记录本次调整。
-

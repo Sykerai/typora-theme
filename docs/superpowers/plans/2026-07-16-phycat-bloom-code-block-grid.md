@@ -300,7 +300,7 @@ Expected: every assertion is `True` and the command exits with code 0.
 **Files:**
 - Modify externally: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.light.css`
 - Modify externally: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.dark.css`
-- Update: `D:\史永康\Documents\docs\typora\phycat-forest-pending-changes.md`
+- Update: `C:\Users\史永康\AppData\Roaming\Typora\themes\docs\typora\phycat-theme-maintenance-log.md`
 
 **Interfaces:**
 - Consumes: the two verified staged CSS files.
@@ -353,7 +353,7 @@ Expected: all checks pass with exit code 0.
 
 - [ ] **Step 3: Update the change log and remove only staged files**
 
-Document the Grid structure, Bloom source, Phycat visual mapping, tooltip visibility behavior, backup names, and manual verification states in `D:\史永康\Documents\docs\typora\phycat-forest-pending-changes.md`. Remove only:
+Document the Grid structure, Bloom source, Phycat visual mapping, tooltip visibility behavior, backup names, and manual verification states in `C:\Users\史永康\AppData\Roaming\Typora\themes\docs\typora\phycat-theme-maintenance-log.md`. Remove only:
 
 ```text
 D:\史永康\Documents\phycat.light.bloom-grid.css

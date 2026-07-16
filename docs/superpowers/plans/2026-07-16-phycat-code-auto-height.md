@@ -22,7 +22,7 @@
 **Files:**
 - Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.light.css`
 - Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\phycat\phycat.dark.css`
-- Modify: `D:\史永康\Documents\docs\typora\phycat-forest-pending-changes.md`
+- Modify: `C:\Users\史永康\AppData\Roaming\Typora\themes\docs\typora\phycat-theme-maintenance-log.md`
 
 **Interfaces:**
 - Consumes: 非 Mermaid `.md-fences` 中的 `.CodeMirror-scroll` 内部滚动区域。
